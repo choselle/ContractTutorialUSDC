@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/CoinbaseStablecoin/solidity-tutorial#readme",
   "dependencies": {
-    "ethers": "^5.0.7"
+    "ethers": "^5.0.7",
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "@openzeppelin/contracts": "^3.1.0",
